@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.env
+.env-dev
+tmp/
+
+
+.DS_Store
+package-lock.json
+package.json
+package-lock.json
+package.json
+api/db.js
+.env-dev
