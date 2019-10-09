@@ -1,0 +1,31 @@
+.navbar {
+    background: rgba(0,0,0,.2);
+    width: 100%;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    transition: top 0.6s;
+  }
+  
+.navbar--hidden {
+  top: -50px;
+}
+
+div#container-images{
+  margin: auto;
+  width: 50em;
+}
+div.image{
+  border: solid 1px #CCC;
+  border-radius: 5px;
+  display: inline-block;
+  line-height: 250px;
+  margin: 0 0 2px 5px;
+  vertical-align: top;
+  text-align: center;
+  width: 180px;
+
+}
+.red{
+  border: solid 1px #C00 !important;
+}
